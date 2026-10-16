@@ -1,0 +1,10 @@
+{
+  "backend": "local",
+  "num_evaluated_images": 2276,
+  "total_vlm_detected_objects": 2955,
+  "total_runtime_seconds": 5290.71,
+  "avg_seconds_per_image": 2.33,
+  "load_in_4bit": true,
+  "single_role": true,
+  "batch_size": 4
+}

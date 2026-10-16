@@ -1,0 +1,38 @@
+[
+  {
+    "model": "YOLO11",
+    "mAP_50": 0.6078,
+    "mAP_50_95": 0.371,
+    "mean_precision_50": 0.7816,
+    "mean_recall_50": 0.6393,
+    "mean_f1_50": 0.7007,
+    "gpu_latency_ms": 17.55,
+    "gpu_fps": 56.98,
+    "cpu_latency_ms": 42.85,
+    "cpu_fps": 23.34
+  },
+  {
+    "model": "RT-DETR",
+    "mAP_50": 0.8157,
+    "mAP_50_95": 0.4846,
+    "mean_precision_50": 0.5028,
+    "mean_recall_50": 0.8784,
+    "mean_f1_50": 0.6327,
+    "gpu_latency_ms": 36.32,
+    "gpu_fps": 27.53,
+    "cpu_latency_ms": 332.44,
+    "cpu_fps": 3.01
+  },
+  {
+    "model": "Faster R-CNN",
+    "mAP_50": 0.6793,
+    "mAP_50_95": 0.356,
+    "mean_precision_50": 0.4644,
+    "mean_recall_50": 0.7709,
+    "mean_f1_50": 0.5705,
+    "gpu_latency_ms": 80.84,
+    "gpu_fps": 12.37,
+    "cpu_latency_ms": 1292.22,
+    "cpu_fps": 0.77
+  }
+]

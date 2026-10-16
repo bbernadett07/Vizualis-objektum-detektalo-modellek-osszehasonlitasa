@@ -1,0 +1,17 @@
+model,category,true_positives,false_positives,false_negatives,precision,recall,f1_score
+VLM (Qwen2-VL),person,234,0,145,1.0,0.6174,0.7635
+VLM (Qwen2-VL),car,264,22,64,0.9231,0.8049,0.8599
+VLM (Qwen2-VL),bus,64,3,69,0.9552,0.4812,0.64
+VLM (Qwen2-VL),motorbike,27,3,87,0.9,0.2368,0.375
+YOLO11,person,334,13,45,0.9625,0.8813,0.9201
+YOLO11,car,295,21,33,0.9335,0.8994,0.9161
+YOLO11,bus,113,8,20,0.9339,0.8496,0.8898
+YOLO11,motorbike,76,6,38,0.9268,0.6667,0.7755
+RT-DETR,person,374,56,5,0.8698,0.9868,0.9246
+RT-DETR,car,326,65,2,0.8338,0.9939,0.9068
+RT-DETR,bus,132,12,1,0.9167,0.9925,0.9531
+RT-DETR,motorbike,101,4,13,0.9619,0.886,0.9224
+Faster R-CNN,person,370,83,9,0.8168,0.9763,0.8894
+Faster R-CNN,car,318,74,10,0.8112,0.9695,0.8833
+Faster R-CNN,bus,119,20,14,0.8561,0.8947,0.875
+Faster R-CNN,motorbike,93,14,21,0.8692,0.8158,0.8416

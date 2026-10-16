@@ -1,0 +1,5 @@
+category,gt_images,vlm_true_positives,vlm_false_positives,vlm_false_negatives,precision,recall,f1_score
+person,1293,686,3,607,0.9956,0.5305,0.6922
+car,1038,732,83,306,0.8982,0.7052,0.7901
+bus,550,207,6,343,0.9718,0.3764,0.5426
+motorbike,535,178,9,357,0.9519,0.3327,0.4931

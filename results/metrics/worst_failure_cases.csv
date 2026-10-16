@@ -1,0 +1,31 @@
+model,image_id,file_name,light_condition,gt_count,true_positives,false_positives,false_negatives,f1_score,total_errors
+YOLO11,423,Motorbike/2015_06202.png,Ambient,9,0,0,9,0.0,9
+YOLO11,29,Bus/2015_02307.jpg,Strong,4,0,2,4,0.0,6
+YOLO11,174,Car/2015_02852.jpg,Strong,4,0,0,4,0.0,4
+YOLO11,438,Motorbike/2015_06217.png,Strong,4,0,0,4,0.0,4
+YOLO11,96,Bus/2015_02374.jpg,Strong,2,0,2,2,0.0,4
+YOLO11,450,Motorbike/2015_06229.png,Weak,3,0,0,3,0.0,3
+YOLO11,231,Car/2015_02909.jpg,Strong,2,0,1,2,0.0,3
+YOLO11,452,Motorbike/2015_06231.png,Weak,2,0,1,2,0.0,3
+YOLO11,462,Motorbike/2015_06241.jpg,Strong,2,0,1,2,0.0,3
+YOLO11,571,People/2015_06748.jpg,Weak,2,0,1,2,0.0,3
+RT-DETR,69,Bus/2015_02347.jpg,Weak,2,0,7,2,0.0,9
+RT-DETR,452,Motorbike/2015_06231.png,Weak,2,0,6,2,0.0,8
+RT-DETR,438,Motorbike/2015_06217.png,Strong,4,0,3,4,0.0,7
+RT-DETR,450,Motorbike/2015_06229.png,Weak,3,0,3,3,0.0,6
+RT-DETR,133,Car/2015_02811.jpg,Strong,1,0,3,1,0.0,4
+RT-DETR,451,Motorbike/2015_06230.png,Weak,2,0,1,2,0.0,3
+RT-DETR,504,People/2015_06681.jpg,Ambient,1,0,2,1,0.0,3
+RT-DETR,645,People/2015_06822.png,Twilight,1,0,2,1,0.0,3
+RT-DETR,345,Car/2015_03023.png,Weak,1,0,1,1,0.0,2
+RT-DETR,627,People/2015_06804.png,Ambient,1,0,1,1,0.0,2
+Faster R-CNN,61,Bus/2015_02339.jpg,Strong,1,0,18,1,0.0,19
+Faster R-CNN,421,Motorbike/2015_06200.png,Ambient,10,0,4,10,0.0,14
+Faster R-CNN,423,Motorbike/2015_06202.png,Ambient,9,0,5,9,0.0,14
+Faster R-CNN,449,Motorbike/2015_06228.png,Weak,2,0,11,2,0.0,13
+Faster R-CNN,45,Bus/2015_02323.jpg,Strong,1,0,10,1,0.0,11
+Faster R-CNN,452,Motorbike/2015_06231.png,Weak,2,0,5,2,0.0,7
+Faster R-CNN,271,Car/2015_02949.jpg,Strong,1,0,6,1,0.0,7
+Faster R-CNN,450,Motorbike/2015_06229.png,Weak,3,0,3,3,0.0,6
+Faster R-CNN,321,Car/2015_02999.jpg,Ambient,2,0,4,2,0.0,6
+Faster R-CNN,533,People/2015_06710.jpg,Weak,2,0,4,2,0.0,6

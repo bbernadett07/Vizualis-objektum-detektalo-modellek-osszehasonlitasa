@@ -1,0 +1,113 @@
+{
+  "YOLO11": {
+    "person": {
+      "person": 738,
+      "car": 1,
+      "bus": 0,
+      "motorbike": 1,
+      "Background": 397
+    },
+    "car": {
+      "person": 0,
+      "car": 490,
+      "bus": 5,
+      "motorbike": 2,
+      "Background": 254
+    },
+    "bus": {
+      "person": 0,
+      "car": 7,
+      "bus": 121,
+      "motorbike": 0,
+      "Background": 32
+    },
+    "motorbike": {
+      "person": 5,
+      "car": 2,
+      "bus": 0,
+      "motorbike": 106,
+      "Background": 111
+    },
+    "Background": {
+      "person": 180,
+      "car": 192,
+      "bus": 14,
+      "motorbike": 38,
+      "Background": 0
+    }
+  },
+  "RT-DETR": {
+    "person": {
+      "person": 950,
+      "car": 2,
+      "bus": 0,
+      "motorbike": 2,
+      "Background": 183
+    },
+    "car": {
+      "person": 0,
+      "car": 671,
+      "bus": 2,
+      "motorbike": 1,
+      "Background": 77
+    },
+    "bus": {
+      "person": 0,
+      "car": 3,
+      "bus": 153,
+      "motorbike": 0,
+      "Background": 4
+    },
+    "motorbike": {
+      "person": 6,
+      "car": 4,
+      "bus": 0,
+      "motorbike": 181,
+      "Background": 33
+    },
+    "Background": {
+      "person": 1283,
+      "car": 795,
+      "bus": 51,
+      "motorbike": 298,
+      "Background": 0
+    }
+  },
+  "Faster R-CNN": {
+    "person": {
+      "person": 917,
+      "car": 1,
+      "bus": 0,
+      "motorbike": 4,
+      "Background": 215
+    },
+    "car": {
+      "person": 4,
+      "car": 609,
+      "bus": 6,
+      "motorbike": 10,
+      "Background": 122
+    },
+    "bus": {
+      "person": 1,
+      "car": 8,
+      "bus": 128,
+      "motorbike": 0,
+      "Background": 23
+    },
+    "motorbike": {
+      "person": 11,
+      "car": 6,
+      "bus": 0,
+      "motorbike": 133,
+      "Background": 74
+    },
+    "Background": {
+      "person": 1480,
+      "car": 1048,
+      "bus": 61,
+      "motorbike": 178,
+      "Background": 0
+    }
+  }
+}

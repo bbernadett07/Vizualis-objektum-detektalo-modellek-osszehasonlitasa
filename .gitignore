@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Scratch / kísérleti kód
+scratch/
+scratch_*
+*_scratch.py
+
+# Logok
+*.log
+
+# Virtuális környezet
+venv/
+.venv/
+env/
+ENV/
+
+# Adathalmaz (nagy fájlok)
+data/ExDark/images/
+!data/.gitkeep
+
+# Modellek (letölthető)
+models/**/*.pt
+models/**/*.pth
+models/**/*.bin
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Windows
+desktop.ini

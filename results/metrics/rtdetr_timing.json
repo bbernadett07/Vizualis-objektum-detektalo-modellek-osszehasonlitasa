@@ -1,0 +1,12 @@
+{
+  "model_name": "RT-DETR",
+  "device": "cuda:0",
+  "num_images": 677,
+  "avg_latency_ms": 36.32,
+  "fps": 27.53,
+  "cpu_benchmark": {
+    "num_images": 20,
+    "avg_latency_ms": 332.44,
+    "fps": 3.01
+  }
+}

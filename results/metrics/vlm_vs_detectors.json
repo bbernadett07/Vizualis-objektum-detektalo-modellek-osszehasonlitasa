@@ -1,0 +1,134 @@
+{
+  "YOLO11": {
+    "both_detected": 166,
+    "vlm_found_detector_missed": 23,
+    "detector_found_vlm_missed": 1299,
+    "both_missed": 784,
+    "total_gt_evaluated": 2272,
+    "agreement_matrix": {
+      "person": {
+        "person": 29,
+        "car": 0,
+        "bus": 0,
+        "motorbike": 0,
+        "Missed": 7
+      },
+      "car": {
+        "person": 0,
+        "car": 88,
+        "bus": 0,
+        "motorbike": 0,
+        "Missed": 10
+      },
+      "bus": {
+        "person": 0,
+        "car": 0,
+        "bus": 38,
+        "motorbike": 0,
+        "Missed": 3
+      },
+      "motorbike": {
+        "person": 0,
+        "car": 0,
+        "bus": 0,
+        "motorbike": 11,
+        "Missed": 3
+      },
+      "Missed": {
+        "person": 711,
+        "car": 405,
+        "bus": 85,
+        "motorbike": 98,
+        "Missed": 784
+      }
+    }
+  },
+  "RT-DETR": {
+    "both_detected": 186,
+    "vlm_found_detector_missed": 3,
+    "detector_found_vlm_missed": 1777,
+    "both_missed": 306,
+    "total_gt_evaluated": 2272,
+    "agreement_matrix": {
+      "person": {
+        "person": 34,
+        "car": 0,
+        "bus": 0,
+        "motorbike": 0,
+        "Missed": 2
+      },
+      "car": {
+        "person": 0,
+        "car": 98,
+        "bus": 0,
+        "motorbike": 0,
+        "Missed": 0
+      },
+      "bus": {
+        "person": 0,
+        "car": 0,
+        "bus": 41,
+        "motorbike": 0,
+        "Missed": 0
+      },
+      "motorbike": {
+        "person": 0,
+        "car": 0,
+        "bus": 0,
+        "motorbike": 13,
+        "Missed": 1
+      },
+      "Missed": {
+        "person": 919,
+        "car": 575,
+        "bus": 114,
+        "motorbike": 169,
+        "Missed": 306
+      }
+    }
+  },
+  "Faster R-CNN": {
+    "both_detected": 177,
+    "vlm_found_detector_missed": 12,
+    "detector_found_vlm_missed": 1638,
+    "both_missed": 445,
+    "total_gt_evaluated": 2272,
+    "agreement_matrix": {
+      "person": {
+        "person": 33,
+        "car": 0,
+        "bus": 0,
+        "motorbike": 0,
+        "Missed": 3
+      },
+      "car": {
+        "person": 0,
+        "car": 94,
+        "bus": 0,
+        "motorbike": 0,
+        "Missed": 4
+      },
+      "bus": {
+        "person": 0,
+        "car": 0,
+        "bus": 38,
+        "motorbike": 0,
+        "Missed": 3
+      },
+      "motorbike": {
+        "person": 0,
+        "car": 0,
+        "bus": 0,
+        "motorbike": 12,
+        "Missed": 2
+      },
+      "Missed": {
+        "person": 888,
+        "car": 527,
+        "bus": 92,
+        "motorbike": 131,
+        "Missed": 445
+      }
+    }
+  }
+}

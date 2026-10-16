@@ -1,0 +1,12 @@
+{
+  "model_name": "Faster R-CNN",
+  "device": "cuda:0",
+  "num_images": 677,
+  "avg_latency_ms": 80.84,
+  "fps": 12.37,
+  "cpu_benchmark": {
+    "num_images": 20,
+    "avg_latency_ms": 1292.22,
+    "fps": 0.77
+  }
+}

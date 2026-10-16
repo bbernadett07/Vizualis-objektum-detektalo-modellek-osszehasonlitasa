@@ -1,0 +1,12 @@
+{
+  "model_name": "YOLO11",
+  "device": "cuda:0",
+  "num_images": 677,
+  "avg_latency_ms": 17.55,
+  "fps": 56.98,
+  "cpu_benchmark": {
+    "num_images": 20,
+    "avg_latency_ms": 42.85,
+    "fps": 23.34
+  }
+}

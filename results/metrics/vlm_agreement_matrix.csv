@@ -1,0 +1,76 @@
+detector,vlm_class,detector_class,count
+YOLO11,person,person,29
+YOLO11,person,car,0
+YOLO11,person,bus,0
+YOLO11,person,motorbike,0
+YOLO11,person,Missed,7
+YOLO11,car,person,0
+YOLO11,car,car,88
+YOLO11,car,bus,0
+YOLO11,car,motorbike,0
+YOLO11,car,Missed,10
+YOLO11,bus,person,0
+YOLO11,bus,car,0
+YOLO11,bus,bus,38
+YOLO11,bus,motorbike,0
+YOLO11,bus,Missed,3
+YOLO11,motorbike,person,0
+YOLO11,motorbike,car,0
+YOLO11,motorbike,bus,0
+YOLO11,motorbike,motorbike,11
+YOLO11,motorbike,Missed,3
+YOLO11,Missed,person,711
+YOLO11,Missed,car,405
+YOLO11,Missed,bus,85
+YOLO11,Missed,motorbike,98
+YOLO11,Missed,Missed,784
+RT-DETR,person,person,34
+RT-DETR,person,car,0
+RT-DETR,person,bus,0
+RT-DETR,person,motorbike,0
+RT-DETR,person,Missed,2
+RT-DETR,car,person,0
+RT-DETR,car,car,98
+RT-DETR,car,bus,0
+RT-DETR,car,motorbike,0
+RT-DETR,car,Missed,0
+RT-DETR,bus,person,0
+RT-DETR,bus,car,0
+RT-DETR,bus,bus,41
+RT-DETR,bus,motorbike,0
+RT-DETR,bus,Missed,0
+RT-DETR,motorbike,person,0
+RT-DETR,motorbike,car,0
+RT-DETR,motorbike,bus,0
+RT-DETR,motorbike,motorbike,13
+RT-DETR,motorbike,Missed,1
+RT-DETR,Missed,person,919
+RT-DETR,Missed,car,575
+RT-DETR,Missed,bus,114
+RT-DETR,Missed,motorbike,169
+RT-DETR,Missed,Missed,306
+Faster R-CNN,person,person,33
+Faster R-CNN,person,car,0
+Faster R-CNN,person,bus,0
+Faster R-CNN,person,motorbike,0
+Faster R-CNN,person,Missed,3
+Faster R-CNN,car,person,0
+Faster R-CNN,car,car,94
+Faster R-CNN,car,bus,0
+Faster R-CNN,car,motorbike,0
+Faster R-CNN,car,Missed,4
+Faster R-CNN,bus,person,0
+Faster R-CNN,bus,car,0
+Faster R-CNN,bus,bus,38
+Faster R-CNN,bus,motorbike,0
+Faster R-CNN,bus,Missed,3
+Faster R-CNN,motorbike,person,0
+Faster R-CNN,motorbike,car,0
+Faster R-CNN,motorbike,bus,0
+Faster R-CNN,motorbike,motorbike,12
+Faster R-CNN,motorbike,Missed,2
+Faster R-CNN,Missed,person,888
+Faster R-CNN,Missed,car,527
+Faster R-CNN,Missed,bus,92
+Faster R-CNN,Missed,motorbike,131
+Faster R-CNN,Missed,Missed,445
