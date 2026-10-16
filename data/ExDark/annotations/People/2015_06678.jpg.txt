@@ -1,2 +1,0 @@
-% bbGt version=3
-People 949 703 1375 2902 0 0 0 0 0 0 0

@@ -1,3 +1,0 @@
-% bbGt version=3
-Bicycle 60 121 350 342 0 0 0 0 0 0 0
-People 102 3 288 416 0 0 0 0 0 0 0

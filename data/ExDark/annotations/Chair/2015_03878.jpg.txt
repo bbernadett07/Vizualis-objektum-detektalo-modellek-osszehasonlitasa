@@ -1,2 +1,0 @@
-% bbGt version=3
-Chair 191 302 187 188 0 0 0 0 0 0 0

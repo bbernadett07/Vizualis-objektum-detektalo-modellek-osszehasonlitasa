@@ -1,3 +1,0 @@
-% bbGt version=3
-People 28 203 81 222 0 0 0 0 0 0 0
-People 145 233 41 68 0 0 0 0 0 0 0

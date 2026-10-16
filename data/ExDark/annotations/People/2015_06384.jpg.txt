@@ -1,2 +1,0 @@
-% bbGt version=3
-People 205 371 35 71 0 0 0 0 0 0 0

@@ -1,2 +1,0 @@
-% bbGt version=3
-Bicycle 454 176 156 246 0 0 0 0 0 0 0

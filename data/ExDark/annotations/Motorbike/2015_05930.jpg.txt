@@ -1,2 +1,0 @@
-% bbGt version=3
-Motorbike 72 403 287 228 0 0 0 0 0 0 0

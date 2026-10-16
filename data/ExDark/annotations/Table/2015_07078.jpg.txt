@@ -1,2 +1,0 @@
-% bbGt version=3
-Table 124 253 120 125 0 0 0 0 0 0 0

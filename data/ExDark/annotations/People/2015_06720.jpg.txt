@@ -1,2 +1,0 @@
-% bbGt version=3
-People 501 463 79 166 0 0 0 0 0 0 0

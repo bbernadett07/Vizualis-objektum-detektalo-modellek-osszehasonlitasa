@@ -1,2 +1,0 @@
-% bbGt version=3
-People 608 819 1205 1416 0 0 0 0 0 0 0

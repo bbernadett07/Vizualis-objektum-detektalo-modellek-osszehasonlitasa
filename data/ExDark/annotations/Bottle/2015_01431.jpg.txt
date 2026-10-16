@@ -1,3 +1,0 @@
-% bbGt version=3
-Bottle 133 148 64 193 0 0 0 0 0 0 0
-People 8 2 429 360 0 0 0 0 0 0 0

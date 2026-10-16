@@ -1,2 +1,0 @@
-% bbGt version=3
-Motorbike 169 122 345 333 0 0 0 0 0 0 0

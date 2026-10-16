@@ -1,2 +1,0 @@
-% bbGt version=3
-Bottle 323 195 200 575 0 0 0 0 0 0 0

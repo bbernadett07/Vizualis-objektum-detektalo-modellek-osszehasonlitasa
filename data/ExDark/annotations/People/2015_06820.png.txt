@@ -1,2 +1,0 @@
-% bbGt version=3
-People 886 371 304 579 0 0 0 0 0 0 0

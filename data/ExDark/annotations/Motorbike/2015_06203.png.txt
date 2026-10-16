@@ -1,3 +1,0 @@
-% bbGt version=3
-Motorbike 765 316 130 151 0 0 0 0 0 0 0
-People 800 257 83 166 0 0 0 0 0 0 0
