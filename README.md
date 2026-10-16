@@ -83,7 +83,7 @@ python src/vlm_inference.py --smoketest
 
 ---
 
-### 2. A teljes csővezeték futtatása
+### 2. A teljes folyamat futtatása
 
 A teljes folyamat lépésről lépésre, egymás után futtatható:
 
@@ -115,7 +115,7 @@ python src/compare_vlm_detectors.py
 
 ---
 
-## A csővezeték komponensei
+## A folyamat komponensei
 
 ### 1. Adathalmaz előfeldolgozása (`src/preprocess.py`)
 - A nyers ExDark annotációkat a hivatalos COCO JSON formátumra szabványosítja.
