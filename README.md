@@ -45,14 +45,8 @@ project/
 Ensure Python 3.10+ and PyTorch with CUDA support are installed:
 
 ```bash
-# Klónozás alapértelmezett névvel
 git clone https://github.com/bbernadett07/Vizualis-objektum-detektalo-modellek-osszehasonlitasa.git
 cd Vizualis-objektum-detektalo-modellek-osszehasonlitasa
-
-# VAGY klónozás rövidebb névvel
-git clone https://github.com/bbernadett07/Vizualis-objektum-detektalo-modellek-osszehasonlitasa.git exdark-benchmark
-cd exdark-benchmark
-
 pip install -r requirements.txt
 ```
 
